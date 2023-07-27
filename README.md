@@ -1,3 +1,5 @@
+## MathMountain
+
 Graphs of linear equations make up snowy
 hills in a fun, interactive skiing game
 
